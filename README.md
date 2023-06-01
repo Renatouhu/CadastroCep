@@ -13,7 +13,7 @@ Formulário de Cadastramento em que se é utilizando javascript para enviar e ac
   git clone https://github.com/Renatouhu/CadastroCep.git
 ~~~
 
-# Autor
+## Autor
 
 <img style="border-radius: 50%;" width="100px" src="https://avatars.githubusercontent.com/u/98525200?s=400&u=f8e6816fad9bbadcba451a4f6c545565f2b79674&v=4">
 
